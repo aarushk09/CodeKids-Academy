@@ -7,13 +7,6 @@
   flex-direction: column;
   background-color: #000000;
 }
-.gradient-text {
-  background-image: linear-gradient(to right, purple, blue);
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  color: transparent;
-}
 
 .home-navbar-container {
   top: 0;
